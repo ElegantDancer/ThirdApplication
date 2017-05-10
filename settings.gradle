@@ -1,6 +1,6 @@
 include ':app', ':mutiprocess', ':gesturedetector', ':movescrolldemo', ':refreshlayout', ':android-cube-app', ':secondrefeshdemo', ':testdemo', ':toptabbar', ':filedemo', ':protecttest', ':qqsharedemo', ':weibosdkdemo', ':qqshare', ':builderdemo', ':fragmentdemo', ':reflectdemo', ':selfviewbetter', ':notificationdemo', ':drawabledemo', ':fingeraartest', ':sqlitedemo', ':contentproviderdemo', ':wxchatdemo', ':leackcanary', ':metro', ':recycleview', ':recycleviewdemo', ':translatescroll', ':jsonobjectdemo', ':pulltoloadmoredata', ':uploadrefreshrecycleview', ':tablayoutdemo', ':eventbusdemo'
 include ':pullToRefreshTest'
-include ':chapter_3'
+include ':selfview1'
 include ':chapter_5'
 include ':chapter_6'
 include ':chapter_7'

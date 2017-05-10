@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/android-cube-app" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builderdemo" />
-            <option value="$PROJECT_DIR$/chapter_3" />
             <option value="$PROJECT_DIR$/chapter_5" />
             <option value="$PROJECT_DIR$/chapter_6" />
             <option value="$PROJECT_DIR$/chapter_7" />
@@ -45,6 +44,7 @@
             <option value="$PROJECT_DIR$/reflectdemo" />
             <option value="$PROJECT_DIR$/refreshlayout" />
             <option value="$PROJECT_DIR$/secondrefeshdemo" />
+            <option value="$PROJECT_DIR$/selfview1" />
             <option value="$PROJECT_DIR$/selfviewbetter" />
             <option value="$PROJECT_DIR$/sqlitedemo" />
             <option value="$PROJECT_DIR$/tablayoutdemo" />
