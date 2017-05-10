@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_7/build/intermediates/res/merged/debug/anim/exit_anim.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_7/src/main/res/anim/exit_anim.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_7/build/intermediates/res/merged/debug/anim/anim_item.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_7/src/main/res/anim/anim_item.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_7/build/intermediates/res/merged/debug/anim/enter_anim.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_7/src/main/res/anim/enter_anim.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_7/build/intermediates/res/merged/debug/anim/anim_layout.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_7/src/main/res/anim/anim_layout.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_7/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_7/src/main/res/anim/translate.xml"
+    }
+]

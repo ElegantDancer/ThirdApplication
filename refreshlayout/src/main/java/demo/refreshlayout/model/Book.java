@@ -1,0 +1,27 @@
+package demo.refreshlayout.model;
+
+/**
+ * Created by zhenzhen on 2017/2/23.
+ */
+
+public class Book {
+
+    private int bookId;
+    private String bookName;
+
+    public int getBookId() {
+        return bookId;
+    }
+
+    public void setBookId(int bookId) {
+        this.bookId = bookId;
+    }
+
+    public String getBookName() {
+        return bookName;
+    }
+
+    public void setBookName(String bookName) {
+        this.bookName = bookName;
+    }
+}

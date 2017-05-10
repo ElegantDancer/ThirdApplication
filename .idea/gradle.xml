@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImageLoaderDemo" />
+            <option value="$PROJECT_DIR$/android-cube-app" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/builderdemo" />
+            <option value="$PROJECT_DIR$/chapter_3" />
+            <option value="$PROJECT_DIR$/chapter_5" />
+            <option value="$PROJECT_DIR$/chapter_6" />
+            <option value="$PROJECT_DIR$/chapter_7" />
+            <option value="$PROJECT_DIR$/chapter_8" />
+            <option value="$PROJECT_DIR$/contentproviderdemo" />
+            <option value="$PROJECT_DIR$/drawabledemo" />
+            <option value="$PROJECT_DIR$/eventbusdemo" />
+            <option value="$PROJECT_DIR$/filedemo" />
+            <option value="$PROJECT_DIR$/fingeraartest" />
+            <option value="$PROJECT_DIR$/fragmentdemo" />
+            <option value="$PROJECT_DIR$/gesturedetector" />
+            <option value="$PROJECT_DIR$/gradle" />
+            <option value="$PROJECT_DIR$/gradlebiz/gradlelib1" />
+            <option value="$PROJECT_DIR$/gradlebiz/gradlelib11" />
+            <option value="$PROJECT_DIR$/gradlebiz/gradlelib2" />
+            <option value="$PROJECT_DIR$/jsonobjectdemo" />
+            <option value="$PROJECT_DIR$/leackcanary" />
+            <option value="$PROJECT_DIR$/material_CardView" />
+            <option value="$PROJECT_DIR$/metro" />
+            <option value="$PROJECT_DIR$/movescrolldemo" />
+            <option value="$PROJECT_DIR$/mutiprocess" />
+            <option value="$PROJECT_DIR$/notificationdemo" />
+            <option value="$PROJECT_DIR$/protecttest" />
+            <option value="$PROJECT_DIR$/pullToRefreshTest" />
+            <option value="$PROJECT_DIR$/pulltoloadmoredata" />
+            <option value="$PROJECT_DIR$/qqshare" />
+            <option value="$PROJECT_DIR$/qqsharedemo" />
+            <option value="$PROJECT_DIR$/recycleview" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/reflectdemo" />
+            <option value="$PROJECT_DIR$/refreshlayout" />
+            <option value="$PROJECT_DIR$/secondrefeshdemo" />
+            <option value="$PROJECT_DIR$/selfviewbetter" />
+            <option value="$PROJECT_DIR$/sqlitedemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
+            <option value="$PROJECT_DIR$/testdemo" />
+            <option value="$PROJECT_DIR$/toptabbar" />
+            <option value="$PROJECT_DIR$/translatescroll" />
+            <option value="$PROJECT_DIR$/uploadrefreshrecycleview" />
+            <option value="$PROJECT_DIR$/weibosdkdemo" />
+            <option value="$PROJECT_DIR$/wxchatdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

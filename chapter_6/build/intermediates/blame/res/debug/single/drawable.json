@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable_gradient_sweep.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable_gradient_sweep.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/bitmap_drawable_clamp.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/bitmap_drawable_clamp.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable_gradient_linear.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable_gradient_linear.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/inset_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/inset_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable_size_padding.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable_size_padding.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/clip_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/clip_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/bitmap_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/bitmap_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/bitmap_drawable_mirror.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/bitmap_drawable_mirror.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/transition_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/transition_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/scale_drawable.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/scale_drawable.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable_stroke.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable_stroke.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/edit.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/edit.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/drawable/shape_drawable_gradient_radius.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/drawable/shape_drawable_gradient_radius.xml"
+    }
+]

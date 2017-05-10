@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="title_activity_card_view">CardViewActivity</string>
+    <string name="cardview_contents">
+        这是一个CardView控件，CardView控件可以显示阴影和圆角效果。\n\n
+        这个Demo演示了CardView控件的用法。
+       
+    </string>
+    <string name="cardview_radius_seekbar_text">Radius</string>
+    <string name="cardview_elevation_seekbar_text">Elevation</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageLoaderDemo/ImageLoaderDemo.iml" filepath="$PROJECT_DIR$/ImageLoaderDemo/ImageLoaderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdApplication.iml" filepath="$PROJECT_DIR$/ThirdApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-cube-app/android-cube-app.iml" filepath="$PROJECT_DIR$/android-cube-app/android-cube-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builderdemo/builderdemo.iml" filepath="$PROJECT_DIR$/builderdemo/builderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_3/chapter_3.iml" filepath="$PROJECT_DIR$/chapter_3/chapter_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_5/chapter_5.iml" filepath="$PROJECT_DIR$/chapter_5/chapter_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_6/chapter_6.iml" filepath="$PROJECT_DIR$/chapter_6/chapter_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_7/chapter_7.iml" filepath="$PROJECT_DIR$/chapter_7/chapter_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_8/chapter_8.iml" filepath="$PROJECT_DIR$/chapter_8/chapter_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentproviderdemo/contentproviderdemo.iml" filepath="$PROJECT_DIR$/contentproviderdemo/contentproviderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawabledemo/drawabledemo.iml" filepath="$PROJECT_DIR$/drawabledemo/drawabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" filepath="$PROJECT_DIR$/eventbusdemo/eventbusdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filedemo/filedemo.iml" filepath="$PROJECT_DIR$/filedemo/filedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fingeraartest/fingeraartest.iml" filepath="$PROJECT_DIR$/fingeraartest/fingeraartest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesturedetector/gesturedetector.iml" filepath="$PROJECT_DIR$/gesturedetector/gesturedetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradle/gradle.iml" filepath="$PROJECT_DIR$/gradle/gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradlebiz/gradlelib1/gradlelib1.iml" filepath="$PROJECT_DIR$/gradlebiz/gradlelib1/gradlelib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradlebiz/gradlelib11/gradlelib11.iml" filepath="$PROJECT_DIR$/gradlebiz/gradlelib11/gradlelib11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradlebiz/gradlelib2/gradlelib2.iml" filepath="$PROJECT_DIR$/gradlebiz/gradlelib2/gradlelib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonobjectdemo/jsonobjectdemo.iml" filepath="$PROJECT_DIR$/jsonobjectdemo/jsonobjectdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leackcanary/leackcanary.iml" filepath="$PROJECT_DIR$/leackcanary/leackcanary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material_CardView/material_CardView.iml" filepath="$PROJECT_DIR$/material_CardView/material_CardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metro/metro.iml" filepath="$PROJECT_DIR$/metro/metro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movescrolldemo/movescrolldemo.iml" filepath="$PROJECT_DIR$/movescrolldemo/movescrolldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutiprocess/mutiprocess.iml" filepath="$PROJECT_DIR$/mutiprocess/mutiprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationdemo/notificationdemo.iml" filepath="$PROJECT_DIR$/notificationdemo/notificationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protecttest/protecttest.iml" filepath="$PROJECT_DIR$/protecttest/protecttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" filepath="$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltoloadmoredata/pulltoloadmoredata.iml" filepath="$PROJECT_DIR$/pulltoloadmoredata/pulltoloadmoredata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqshare/qqshare.iml" filepath="$PROJECT_DIR$/qqshare/qqshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqsharedemo/qqsharedemo.iml" filepath="$PROJECT_DIR$/qqsharedemo/qqsharedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectdemo/reflectdemo.iml" filepath="$PROJECT_DIR$/reflectdemo/reflectdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlayout/refreshlayout.iml" filepath="$PROJECT_DIR$/refreshlayout/refreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondrefeshdemo/secondrefeshdemo.iml" filepath="$PROJECT_DIR$/secondrefeshdemo/secondrefeshdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfviewbetter/selfviewbetter.iml" filepath="$PROJECT_DIR$/selfviewbetter/selfviewbetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" filepath="$PROJECT_DIR$/sqlitedemo/sqlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" filepath="$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdemo/testdemo.iml" filepath="$PROJECT_DIR$/testdemo/testdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toptabbar/toptabbar.iml" filepath="$PROJECT_DIR$/toptabbar/toptabbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/translatescroll/translatescroll.iml" filepath="$PROJECT_DIR$/translatescroll/translatescroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadrefreshrecycleview/uploadrefreshrecycleview.iml" filepath="$PROJECT_DIR$/uploadrefreshrecycleview/uploadrefreshrecycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibosdkdemo/weibosdkdemo.iml" filepath="$PROJECT_DIR$/weibosdkdemo/weibosdkdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxchatdemo/wxchatdemo.iml" filepath="$PROJECT_DIR$/wxchatdemo/wxchatdemo.iml" />
+    </modules>
+  </component>
+</project>

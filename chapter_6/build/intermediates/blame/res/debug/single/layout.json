@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/ThirdApplication/chapter_6/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/Users/zhenzhen/ThirdApplication/chapter_6/src/main/res/layout/activity_test.xml"
+    }
+]

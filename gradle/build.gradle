@@ -1,0 +1,86 @@
+import java.util.function.IntBinaryOperator
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "iqiyi.com.gradle"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    signingConfigs {
+        myConfig {
+            storeFile file("gradle.keystore")
+            storePassword "gradle"
+            keyAlias "gradle"
+            keyPassword "gradle"
+        }
+
+        release{
+            storeFile file('gardle.keystore')
+            keyAlias 'gradle'
+            keyPassword 'gradle'
+            storePassword 'gradle'
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.myConfig
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors{
+
+        productA{
+            applicationId "com.zhenzhen.productA"
+            versionName "1.0"
+        }
+
+        productB{
+            applicationId "com.zhenzhen.productB"
+            versionName "2.0"
+        }
+
+    }
+
+    sourceSets {
+
+    }
+}
+
+// 执行一个简单的 打印任务
+task helloworld{
+    println('hello world : first gradle task')
+}
+
+// 把gradle 文件夹下面的 src 文件夹中的内容 copy 到 des 文件夹中
+task copyFile(type: Copy){
+
+    from 'src'
+    into 'des'
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
+    testCompile 'junit:junit:4.12'
+    compile project(':gradlelib1')
+    compile project(':gradlelib2')
+}
